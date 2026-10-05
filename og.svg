@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!--
+    Social card. Rasterised to og.png by `npm run og` — that PNG is what ships,
+    because platforms do not render SVG in og:image. Font families list generic
+    fallbacks first-class, since the rasteriser only has system fonts: the
+    mono lines match the site's primary typeface, and the wordmark uses a
+    grotesque stack rather than relying on Archivo being installed.
+  -->
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="1200" height="10" fill="#14161A"/>
+
+  <text x="80" y="150" fill="#1A4FD6" font-size="24" letter-spacing="4"
+        font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Liberation Mono', monospace">BUILD. BREAK. WRITE IT DOWN.</text>
+
+  <text x="80" y="265" fill="#14161A" font-size="72" font-weight="bold" letter-spacing="1"
+        font-family="Archivo, 'Helvetica Neue', Helvetica, 'DejaVu Sans', 'Liberation Sans', Arial, sans-serif">AMOL KHATRI</text>
+
+  <text x="80" y="345" fill="#3D434A" font-size="34"
+        font-family="Archivo, 'Helvetica Neue', Helvetica, 'DejaVu Sans', 'Liberation Sans', Arial, sans-serif">Things I learn, written down.</text>
+
+  <text x="80" y="405" fill="#6B7178" font-size="25"
+        font-family="Archivo, 'Helvetica Neue', Helvetica, 'DejaVu Sans', 'Liberation Sans', Arial, sans-serif">Anything I come across and want to pass on. One post a day.</text>
+
+  <rect x="80" y="470" width="1040" height="1" fill="#E4E4E0"/>
+
+  <text x="80" y="528" fill="#14161A" font-size="26"
+        font-family="'JetBrains Mono', 'DejaVu Sans Mono', 'Liberation Mono', monospace">amolkhatri.com</text>
+</svg>
